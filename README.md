@@ -19,7 +19,7 @@ Log user actions (city selections)
 ##Setup
 
 Clone the repository:
-git clone https://github.com/your-username/weather-forecast-app.git
+git clone https://github.com/your-username/weather-forecast-app.git](https://github.com/danieliuspdb/Weather-App
 cd weather-forecast-app
 
 Run the backend:
@@ -35,4 +35,4 @@ npm install
 npm start
 ```
 ##Access the app: 
-Navigate to [Link Text](http://localhost:3000) to view the application in your browser.
+Navigate to http://localhost:3000 to view the application in your browser.
