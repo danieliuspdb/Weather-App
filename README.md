@@ -32,8 +32,5 @@ cd client
 npm install
 npm start
 
-bash
-Copy
-Edit
-node server.js
-Access the app: Navigate to http://localhost:3000 to view the application in your browser.
+Access the app: 
+Navigate to http://localhost:3000 to view the application in your browser.
