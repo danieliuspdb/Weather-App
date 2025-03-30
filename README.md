@@ -19,9 +19,10 @@ Log user actions (city selections)
 ##Setup
 
 Clone the repository:
+```bash
 git clone https://github.com/your-username/weather-forecast-app.git](https://github.com/danieliuspdb/Weather-App
 cd weather-forecast-app
-
+```
 Run the backend:
 ```bash
 cd server
