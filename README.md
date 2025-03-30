@@ -18,18 +18,18 @@
 
 ## Setup
 
-Clone the repository:
+- Clone the repository:
 ```bash
 git clone https://github.com/your-username/weather-forecast-app.git](https://github.com/danieliuspdb/Weather-App
 cd weather-forecast-app
 ```
-Run the backend:
+- Run the backend:
 ```bash
 cd server
 npm install
 npm start
 ```
-Run the frontend:
+- Run the frontend:
 ```bash
 cd client
 npm install
