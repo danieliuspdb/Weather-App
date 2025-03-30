@@ -4,10 +4,10 @@
 A web application that displays the current weather conditions and a 5-day forecast for any selected city. It logs user actions and displays the 3 most frequently viewed cities.
 
 ## Tech Stack
-**Frontend**: React
-**Backend**: Node.js
-**Weather API**: Uses open-source weather APIs (Meteo API)
-**Styling**: Custom styling with SASS
+- **Frontend**: React
+- **Backend**: Node.js
+- **Weather API**: Uses open-source weather APIs (Meteo API)
+- **Styling**: Custom styling with SASS
 
 ## Features:
 Searchable city dropdown
